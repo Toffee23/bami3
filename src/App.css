@@ -1,0 +1,14 @@
+*{
+  background-color: black;
+}
+.long-input{
+  min-width: 50%;
+}
+.remove-arrow::-webkit-inner-spin-button, .remove-arrow::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.shadow-show{
+  box-shadow:'0 0 10px rgb(240, 179, 179)';
+  color: rgb(240, 179, 179);
+}
